@@ -1,0 +1,5 @@
+{
+    "fuelAmount_threshold": 0.02,
+    "eventDateTime_threshold": 30
+    
+}
